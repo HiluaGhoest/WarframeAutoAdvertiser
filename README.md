@@ -23,3 +23,15 @@ if you are not in a clan, you can activate any another chats (eg: region), **but
 - you should reload (right click on tray icon > reload script) everytime you change your advertisement above.
 
 ## If you encounter any bugs, contact me
+
+# How to download
+- Install AutoHotKey v1.1 (not v2)
+- Click the green button <> Code
+- Select "**download zip**"
+- Extract
+
+## How to run
+- Right click > Edit script > follow along the first lines
+- Save
+- Run the script
+- press the startHotkey (described when editing script)
