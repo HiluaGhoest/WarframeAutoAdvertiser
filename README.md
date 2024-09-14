@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/044075f4-4ddc-4262-90c9-7d63fa58cd87)
 # WarframeAutoAdvertiser
+![image](https://github.com/user-attachments/assets/044075f4-4ddc-4262-90c9-7d63fa58cd87)
 Send advertisements in the Trading chat while AFK
 
 
@@ -15,16 +15,11 @@ if you are not in a clan, you can activate any another chats (eg: region), **but
 
 - ### Example in orbiter
 ![image](https://github.com/user-attachments/assets/4bfd347e-ca30-4499-8b8a-fa43be5b8f86)
-
 - ### Example in dojo
 ![image](https://github.com/user-attachments/assets/4aa02dd8-b033-4e97-b344-7a9b7dd2ef91)
-
-
 - you should reload (right click on tray icon > reload script) everytime you change your advertisement above.
 
-## If you encounter any bugs, contact me
-
-# How to download
+## How to download
 - Install AutoHotKey v1.1 (not v2)
 - Click the green button <> Code
 - Select "**download zip**"
@@ -35,3 +30,5 @@ if you are not in a clan, you can activate any another chats (eg: region), **but
 - Save
 - Run the script
 - press the startHotkey (described when editing script)
+  
+### If you encounter any bugs, contact me
