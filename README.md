@@ -14,7 +14,7 @@ Send advertisements in the Trading chat while AFK
 if you are not in a clan, you can activate any another chats (eg: region), **but it will only work if youre in orbiter, not in dojo**
 
 - ### Example in orbiter
-![image](https://github.com/user-attachments/assets/4bfd347e-ca30-4499-8b8a-fa43be5b8f86)
+![image](https://github.com/user-attachments/assets/84118c4d-b1f2-40fc-a193-3f7930960c2e)
 - ### Example in dojo
 ![image](https://github.com/user-attachments/assets/4aa02dd8-b033-4e97-b344-7a9b7dd2ef91)
 - you should reload (right click on tray icon > reload script) everytime you change your advertisement above.
