@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/044075f4-4ddc-4262-90c9-7d63fa58cd87)
 # WarframeAutoAdvertiser
 Send advertisements in the Trading chat while AFK
 
@@ -19,6 +20,6 @@ if you are not in a clan, you can activate any another chats (eg: region), **but
 ![image](https://github.com/user-attachments/assets/4aa02dd8-b033-4e97-b344-7a9b7dd2ef91)
 
 
--you should reload (right click on tray icon > reload script) everytime you change your advertisement above.
+- you should reload (right click on tray icon > reload script) everytime you change your advertisement above.
 
 ## If you encounter any bugs, contact me
