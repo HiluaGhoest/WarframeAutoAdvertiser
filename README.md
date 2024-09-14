@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/042a4dce-3a19-4bda-94d4-d71ab69e7b43)# WarframeAutoAdvertiser
+# WarframeAutoAdvertiser
 Send advertisements in the Trading chat while AFK
 
 
