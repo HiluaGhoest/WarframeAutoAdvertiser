@@ -40,7 +40,7 @@ CheckAndSendText:
     if (isRunning) {
 
 
-        SetTimer, CheckAndSendText, 5000 ; Start timer to run every 121 seconds
+        SetTimer, CheckAndSendText, 121000 ; Start timer to run every 121 seconds
         ; Store the current active window title
         currentWindowTitle := ""
         WinGetActiveTitle, currentWindowTitle
